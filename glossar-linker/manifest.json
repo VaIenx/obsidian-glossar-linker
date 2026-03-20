@@ -1,0 +1,10 @@
+{
+  "id": "glossar-linker",
+  "name": "Glossar Linker",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Scannt den Vault nach Glossar-Einträgen und verlinkt sie mit Vorschau.",
+  "author": "Johannes",
+  "authorUrl": "https://github.com/VaIenx",
+  "isDesktopOnly": true
+}
